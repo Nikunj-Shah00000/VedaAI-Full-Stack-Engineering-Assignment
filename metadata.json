@@ -1,0 +1,6 @@
+{
+  "name": "VedaAI - AI Assessment Creator",
+  "description": "A modern, premium digital assessment platform for teachers to generate, customize, and finalize structured question papers and exam answer keys utilizing server-side Gemini intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
